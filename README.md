@@ -1,4 +1,3 @@
-### Dashboard
 <img src="https://github.com/Shahid-Malik4/crm-analytics/blob/main/pbi-lasani.png" alt="Dashboard Image">
 
 ### Skill & Tools:
