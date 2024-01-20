@@ -1,7 +1,9 @@
 <img src="https://github.com/Shahid-Malik4/crm-analytics/blob/main/pbi-lasani.png" alt="Dashboard Image">
 
 ### Skill & Tools:
-SQL, Excel, Power BI
+* SQL
+* Excel
+* Power BI
 
 # Introduction:
 The "Boosting Profitability: Optimizing Sales via CRM and Analytics" project involved the extraction,
