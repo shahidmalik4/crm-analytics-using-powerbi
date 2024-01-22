@@ -42,3 +42,6 @@ Identified best selling items and their performance across different categories 
 
 ## Conclusion:
 The "Boosting Profitability: Optimizing Sales via CRM and Analytics" project effectively utilized data extraction from SQL Server, manipulation in MySQL, cleaning in Excel, and visualization in Power BI to derive actionable insights and KPIs from sales data. By normalizing the data for efficient analysis, the project empowered stakeholders with visual representations and key metrics, aiding in strategic decision-making and improving overall sales performance.
+
+<br>
+<a href="https://shahidmalik4.github.io/projects/boosting-profitability-and-optimizing-sales-via-crm-and-analytics.html">Project Link</a>
