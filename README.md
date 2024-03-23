@@ -6,7 +6,7 @@ checkout full project <a href="https://shahidmalik.vercel.app/project/boosting-p
 <br>
 
 # Background
-Objective: To explore and visualize extensive Olympic Games data to identify trends, top-performing countries, athletes, and gender distribution across various Olympic events and seasons.
+Objective: To analyze sales data comprehensively by combining SQL Server data, performing data transformations in MySQL, cleaning in Excel, and visualizing insights in Power BI, focusing on best selling items, top paying customers, sales by company, category, territory, and time series analysis.
 
 
 ### The questions I wanted to answer:
@@ -74,9 +74,9 @@ For my deep dive into the analysis, I harnessed the power of several key tools:
 Throughout this adventure, I've turbocharged my SQL toolkit with some serious firepower:
 
 - **🧩 Complex Query Crafting:** Mastered the art of advanced SQL, merging tables like a pro and wielding clauses for ninja-level table maneuvers.
-- **📊 Data Aggregation:** Got cozy with GROUP BY and turned aggregate functions like COUNT() and AVG() into my data-summarizing sidekicks.
+- **📊 Data Aggregation:** Got cozy with GROUP BY and turned aggregate functions like COUNT(), ROW_NUMBER(), RANK() and AVG() into my data-summarizing sidekicks.
 - **💡 Analytical Wizardry:** Leveled up my real-world puzzle-solving skills, turning questions into actionable, insightful results.
 
 # Conclusions
 
-The "120 Years of Olympic Games: A Comprehensive Review" project successfully transformed raw Olympic Games data into a visually engaging and informative dashboard using Power BI. By leveraging data cleaning, normalization, and visualization techniques, the project provided stakeholders with a comprehensive tool to explore and understand historical trends, top performers, and key factors influencing the Olympic Games over more than a century.
+The "Boosting Profitability: Optimizing Sales via CRM and Analytics" project effectively utilized data extraction from SQL Server, manipulation in MySQL, cleaning in Excel, and visualization in Power BI to derive actionable insights and KPIs from sales data. By normalizing the data for efficient analysis, the project empowered stakeholders with visual representations and key metrics, aiding in strategic decision-making and improving overall sales performance.
