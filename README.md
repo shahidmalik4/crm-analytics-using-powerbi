@@ -11,11 +11,11 @@ Objective: To analyze sales data comprehensively by combining SQL Server data, p
 
 ### The questions I wanted to answer:
 
-1. Distribution of medals among male and female athletes?
-2. What countries participated in almost every Olympic Season?
-3. Participants and Events by Season?
-4. Medals distribution by Athletes, Countries and Sports throughout the Year's?
-5. Athletes Participations and Medal Winning Analysis?
+1. How do sales vary across different regions or territories?
+2. Which products or categories contribute the most to overall sales revenue?
+3. How do different customer segments behave? (e.g., new vs. returning customers, high-value vs. low-value customers)
+4. What is the distribution of revenue and profit margins among different companies?
+5. How have sales revenues evolved for different companies and customer segments over the years?
 
 
 # Tools I Used
