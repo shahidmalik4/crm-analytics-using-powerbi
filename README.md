@@ -1,8 +1,8 @@
 # Introduction
-📊 The "120 Years of Olympic Games: A Comprehensive Review" project aimed to analyze historical Olympic Games data spanning more than a century. Utilizing data sourced from Kaggle, the project focused on cleaning, preparing, normalizing, and visualizing the data in Power BI to extract meaningful insights and highlight key trends in Olympic history.
+📊 The "Boosting Profitability: Optimizing Sales via CRM and Analytics" project involved the extraction, manipulation, and analysis of sales data sourced from SQL Server. Utilizing MySQL for data transformation, Excel for cleaning and preparation, and Power BI for normalization and visualization, the project aimed to derive actionable insights and visualize key performance indicators (KPIs) for sales analysis.
 
 <br>
-<a href="https://shahidmalik.vercel.app/project/120-years-of-olympic-games">Project Link</a>
+checkout full project <a href="https://shahidmalik.vercel.app/project/boosting-profitability-and-optimizing-sales-via-crm-and-analytics">Here</a>
 <br>
 
 # Background
