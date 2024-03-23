@@ -27,19 +27,19 @@ For my deep dive into the analysis, I harnessed the power of several key tools:
 - **Excel:** The handy tool for Data manipulation.
 - **Git & GitHub:** Essential for version control and sharing my SQL scripts and analysis, ensuring collaboration and project tracking.
 
-### 1. Distribution of medals among male and female athletes
+### 1. How do sales vary across different regions or territories
 - Across the 120 years analyzed, a total of 28530 medals were awarded to male athletes, while female athletes accumulated 11253 medals.
 - In the early years of the Olympics, male athletes dominated the medal standings, with a significant gap between male and female medal counts.
 - However, as the Olympics progressed, female representation and performance witnessed a steady rise, leading to a more balanced distribution of medals in recent years.
 
 
-### 2. Countries participated in almost every Olympic Season
+### 2. Which products or categories contribute the most to overall sales revenue?
 - Certain nations have consistently demonstrated a high level of engagement with the Olympic Games, appearing frequently across various editions.
 - Countries such as the United States, Russia (formerly the Soviet Union), Germany, Great Britain, and France consistently rank among the top participants in terms of sheer number of appearances.
 - External events such as wars, political conflicts, and economic crises have occasionally disrupted Olympic participation for certain countries, leading to fluctuations in their engagement over time.
 
 
-### 3. Participants and Events by Season?
+### 3. How do different customer segments behave? (e.g., new vs. returning customers, high-value vs. low-value customers)
 
 - **Summer Games:**
    - The Summer Olympics typically attract a larger number of participating countries and events compared to the Winter Games.
@@ -55,14 +55,14 @@ For my deep dive into the analysis, I harnessed the power of several key tools:
     - Despite the smaller scale, the Winter Olympics showcase the skill and athleticism of athletes in sports uniquely suited to snowy and icy conditions.
 
 
-### 4. Medals distribution by Athletes, Countries and Sports throughout the Year's
+### 4. What is the distribution of revenue and profit margins among different companies?
 
 - Certain athletes such as (Michael Fred Phelps II from US, Larisa Semyonovna Latynina from Soviet Union, Nikolai Yefimovich Andrianov from Russia) emerge as prolific medal winners, achieving multiple podium finishes across multiple Olympic Games.
 - Traditional powerhouse sports such as athletics, swimming, and gymnastics often command a significant share of Olympic medals, reflecting their widespread appeal and global participation.
 - Certain nations consistently rank among the top medal-winning countries, demonstrating sustained success and investment in Olympic sports.
 
 
-### 5. Athletes Participations and Medal Winning Analysis
+### 5. How have sales revenues evolved for different companies and customer segments over the years?
 
 - In the span of 120 years, the United States has emerged as the most successful nation in terms of total medals won, with over 5600 medals across all editions of the Olympics. Russia (including the Soviet Union) follows closely behind, with over 3900 medals.
 - Nations such as the United States, Russia, China, and Germany tend to excel across a wide range of Olympic disciplines, accumulating significant medal counts over successive Games.
