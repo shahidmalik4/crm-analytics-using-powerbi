@@ -27,7 +27,7 @@ For my deep dive into the analysis, I harnessed the power of several key tools:
 - **Excel:** The handy tool for Data manipulation.
 - **Git & GitHub:** Essential for version control and sharing my SQL scripts and analysis, ensuring collaboration and project tracking.
 
-### 1. How do sales vary across different regions or territories
+### 1. How do sales vary across different regions or territories?
 - Across the 120 years analyzed, a total of 28530 medals were awarded to male athletes, while female athletes accumulated 11253 medals.
 - In the early years of the Olympics, male athletes dominated the medal standings, with a significant gap between male and female medal counts.
 - However, as the Olympics progressed, female representation and performance witnessed a steady rise, leading to a more balanced distribution of medals in recent years.
