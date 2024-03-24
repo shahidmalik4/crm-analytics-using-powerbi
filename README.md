@@ -27,48 +27,6 @@ For my deep dive into the analysis, I harnessed the power of several key tools:
 - **Excel:** The handy tool for Data manipulation.
 - **Git & GitHub:** Essential for version control and sharing my SQL scripts and analysis, ensuring collaboration and project tracking.
 
-### 1. How do sales vary across different regions or territories?
-- Across the 120 years analyzed, a total of 28530 medals were awarded to male athletes, while female athletes accumulated 11253 medals.
-- In the early years of the Olympics, male athletes dominated the medal standings, with a significant gap between male and female medal counts.
-- However, as the Olympics progressed, female representation and performance witnessed a steady rise, leading to a more balanced distribution of medals in recent years.
-
-
-### 2. Which products or categories contribute the most to overall sales revenue?
-- Certain nations have consistently demonstrated a high level of engagement with the Olympic Games, appearing frequently across various editions.
-- Countries such as the United States, Russia (formerly the Soviet Union), Germany, Great Britain, and France consistently rank among the top participants in terms of sheer number of appearances.
-- External events such as wars, political conflicts, and economic crises have occasionally disrupted Olympic participation for certain countries, leading to fluctuations in their engagement over time.
-
-
-### 3. How do different customer segments behave? (e.g., new vs. returning customers, high-value vs. low-value customers)
-
-- **Summer Games:**
-   - The Summer Olympics typically attract a larger number of participating countries and events compared to the Winter Games.
-   - In total 230 countries participated in 29 editions and 116780 athletes played 52 sports won nearly 34000 medals.
-   - Nations from around the world converge to compete in a wide array of sports, including athletics, swimming, gymnastics, and team sports like soccer and basketball.
-   - The Summer Games traditionally feature a diverse range of events, reflecting the global appeal and popularity of warm-weather sports.
-
-- **Winter Games:**
-    - The Winter Olympics, held in colder climates, tend to have fewer participating countries and events compared to the Summer Games.
-    - In total 119 countries participated in 22 editions and 18960 athletes played 17 sports won nearly 5695 medals.
-    - Winter sports such as skiing, skating, snowboarding, and ice hockey dominate the program, with fewer nations possessing the infrastructure and expertise to compete in 
-     these disciplines.
-    - Despite the smaller scale, the Winter Olympics showcase the skill and athleticism of athletes in sports uniquely suited to snowy and icy conditions.
-
-
-### 4. What is the distribution of revenue and profit margins among different companies?
-
-- Certain athletes such as (Michael Fred Phelps II from US, Larisa Semyonovna Latynina from Soviet Union, Nikolai Yefimovich Andrianov from Russia) emerge as prolific medal winners, achieving multiple podium finishes across multiple Olympic Games.
-- Traditional powerhouse sports such as athletics, swimming, and gymnastics often command a significant share of Olympic medals, reflecting their widespread appeal and global participation.
-- Certain nations consistently rank among the top medal-winning countries, demonstrating sustained success and investment in Olympic sports.
-
-
-### 5. How have sales revenues evolved for different companies and customer segments over the years?
-
-- In the span of 120 years, the United States has emerged as the most successful nation in terms of total medals won, with over 5600 medals across all editions of the Olympics. Russia (including the Soviet Union) follows closely behind, with over 3900 medals.
-- Nations such as the United States, Russia, China, and Germany tend to excel across a wide range of Olympic disciplines, accumulating significant medal counts over successive Games.
-- Countries with robust sports development programs and funding mechanisms often produce elite athletes capable of competing at the highest levels of Olympic competition.
-- Historical legacies and geopolitical factors also play a role. For instance, countries with strong traditions in specific sports, such as Norway in winter sports and Kenya in distance running, often excel in those disciplines.
-
 
 # What I Learned
 
