@@ -2,7 +2,7 @@
 📊 The "Boosting Profitability: Optimizing Sales via CRM and Analytics" project involved the extraction, manipulation, and analysis of sales data sourced from SQL Server. Utilizing MySQL for data transformation, Excel for cleaning and preparation, and Power BI for normalization and visualization, the project aimed to derive actionable insights and visualize key performance indicators (KPIs) for sales analysis.
 
 <br>
-checkout full project <a href="https://shahidmalik.vercel.app/project/boosting-profitability-and-optimizing-sales-via-crm-and-analytics">Here</a>
+checkout full project <a href="https://shahidmalik.vercel.app/project/optimizing-sales-via-crm-and-analytics">Here</a>
 <br>
 
 # Background
